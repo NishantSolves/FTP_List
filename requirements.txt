@@ -1,0 +1,7 @@
+requests
+urllib3
+python-dotenv
+tqdm
+tenacity
+supabase
+ebaysdk
