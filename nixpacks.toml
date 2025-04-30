@@ -1,9 +1,0 @@
-[
-phases.setup
-]
-nixPkgs = ["python39", "pip"]
-
-[
-start
-]
-cmd = "python FetchBook.py"
